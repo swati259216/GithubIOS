@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSignup/GithubValidationViewModel.swift"
+            timestampString = "472557667.941443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "init(API:validationService:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSignup/GithubValidationViewModel.swift"
+            timestampString = "472557667.941443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "GithubValidationViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSignup/GithubValidationViewModel.swift"
+            timestampString = "472557667.941443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init(API:validationService:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GithubSignup.GithubValidationViewModel.init (GithubSignup.GithubValidationViewModel.Type)(API : GithubSignup.GithubAPI, validationService : GithubSignup.GithubValidationService) -&gt; GithubSignup.GithubValidationViewModel"
+                  moduleName = "GithubSignup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dbanka/Desktop/ZeTarget/GithubSignup/GithubSignup/GithubValidationViewModel.swift"
+                  timestampString = "472557442.461306"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1293">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GithubSignup.GithubValidationViewModel.(init (GithubSignup.GithubValidationViewModel.Type) -&gt; (API : GithubSignup.GithubAPI, validationService : GithubSignup.GithubValidationService) -&gt; GithubSignup.GithubValidationViewModel).(closure #2)"
+                  moduleName = "GithubSignup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dbanka/Desktop/ZeTarget/GithubSignup/GithubSignup/GithubValidationViewModel.swift"
+                  timestampString = "472557442.461464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSignup/GithubValidationViewModel.swift"
+            timestampString = "472557667.941443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init(API:validationService:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSignup/GithubValidationViewModel.swift"
+            timestampString = "472557667.941443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "init(API:validationService:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSignup/GithubValidationViewModel.swift"
+            timestampString = "472557729.916773"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "init(API:validationService:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSignup/GithubValidationViewModel.swift"
+            timestampString = "472557731.484226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init(API:validationService:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GithubSignup.GithubValidationViewModel.init (GithubSignup.GithubValidationViewModel.Type)(API : GithubSignup.GithubAPI, validationService : GithubSignup.GithubValidationService) -&gt; GithubSignup.GithubValidationViewModel"
+                  moduleName = "GithubSignup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dbanka/Desktop/ZeTarget/GithubSignup/GithubSignup/GithubValidationViewModel.swift"
+                  timestampString = "472558039.50382"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "513">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GithubSignup.GithubValidationViewModel.(init (GithubSignup.GithubValidationViewModel.Type) -&gt; (API : GithubSignup.GithubAPI, validationService : GithubSignup.GithubValidationService) -&gt; GithubSignup.GithubValidationViewModel).(closure #1)"
+                  moduleName = "GithubSignup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dbanka/Desktop/ZeTarget/GithubSignup/GithubSignup/GithubValidationViewModel.swift"
+                  timestampString = "472558039.503982"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubSignup/GithubValidationViewModel.swift"
+            timestampString = "472558085.354252"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(API:validationService:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GithubSignup.GithubValidationViewModel.init (GithubSignup.GithubValidationViewModel.Type)(API : GithubSignup.GithubAPI, validationService : GithubSignup.GithubValidationService) -&gt; GithubSignup.GithubValidationViewModel"
+                  moduleName = "GithubSignup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dbanka/Desktop/ZeTarget/GithubSignup/GithubSignup/GithubValidationViewModel.swift"
+                  timestampString = "472558085.355774"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "513">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GithubSignup.GithubValidationViewModel.(init (GithubSignup.GithubValidationViewModel.Type) -&gt; (API : GithubSignup.GithubAPI, validationService : GithubSignup.GithubValidationService) -&gt; GithubSignup.GithubValidationViewModel).(closure #1)"
+                  moduleName = "GithubSignup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dbanka/Desktop/ZeTarget/GithubSignup/GithubSignup/GithubValidationViewModel.swift"
+                  timestampString = "472558085.356021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
