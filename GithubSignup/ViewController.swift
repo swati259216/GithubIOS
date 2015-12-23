@@ -50,7 +50,7 @@ class ViewController: UIViewController {
         viewModel.signUpEnabled.bindTo(signUpButton.rx_enabled)
         .addDisposableTo(disposeBag)
         
-        signUpButton.rx_tap.subscribeNext(GithubDefaultAPI.signUp(GithubDefaultAPI.sharedAPI))
+        //signUpButton.rx_tap.subscribeNext(GithubDefaultAPI.signUp(GithubDefaultAPI.sharedAPI))
         
         
         
